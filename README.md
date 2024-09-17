@@ -31,26 +31,27 @@ Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Da
 
 ### 🌱 Atualmente estou aprendendo:
 
-- Conceitos avançados em testes de desempenho.
-- Exploração de novas ferramentas de monitoramento de aplicativos.
+- Padrões de design em aplicativos mobile.
+- Técnicas de otimização de performance em Flutter.
 
 ### 👯 Estou procurando colaborar em:
 
-- Projetos open-source voltados para QA.
-- Projetos que visam a automação de testes em dispositivos móveis.
+- Projetos mobile open-source.
+- Iniciativas que promovam o crescimento de desenvolvedores em início de carreira.
 
 ### 🤔 Estou procurando ajuda com:
 
-- Aprofundamento em automação de testes complexos.
-- Ampliação da minha rede de contatos com outros profissionais de QA.
+- Melhorar minhas habilidades em otimização de performance e usabilidade em apps.
+- Ampliação da minha rede de contatos com outros desenvolvedores mobile  .
 
 ### 💬 Pergunte-me sobre:
 
-- Testes em Flutter, melhores práticas de QA, automação de testes.
+- Flutter, boas práticas em desenvolvimento mobile..
 
 ### 📖 Citação favorita:
 
-> "A qualidade de um produto é tão boa quanto a qualidade dos testes que ele passou." - Anônimo
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
+
 
 ---
 
