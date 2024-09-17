@@ -17,23 +17,17 @@ Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Da
 - **Banco de Dados:** PL/SQL, Firebase,
 
 ### 🎓 Formação Acadêmica:
-
-- **Análise e Desenvolvimento de Sistemas** - FACIT - Faculdade de Ciências do Tocantins, Jun 2020
-- **Pós-Graduação em Design de Produtos Digitais - UX/UI** - UNOPAR - Universidade Norte do Paraná, Dez 2022
-
-### 📈 Estatísticas:
-
-[![Eliezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezercastro&show_icons=true&theme=tokyonight)](https://github.com/eliezercastro)
+- ** Análise e Desenvolvimento de Sistemas** - UNOPAR - Universidade Norte do Paraná, jan 2024
 
 ### 📫 Como me alcançar:
 
-- **LinkedIn:** [Eliezer Castro](https://www.linkedin.com/in/eliezer-castro/)
-- **Email:** eliezergino@gmail.com
+- **LinkedIn:** [Tawhin Chiang](https://www.linkedin.com/in/tawhin-chiang-532127228/)
+- **Email:** tawhinchiang89@gmail.com
 
 ### 🔭 Atualmente estou trabalhando em:
 
-- Aprimoramento dos testes automatizados para aplicações Flutter.
-- Implementação de estratégias de testes contínuos em ambientes CI/CD.
+- Desenvolvimento de aplicações móveis utilizando Flutter..
+- Aprimoramento das minhas habilidades em Dart e boas práticas de desenvolvimento mobile..
 
 ### 🌱 Atualmente estou aprendendo:
 
