@@ -1,6 +1,6 @@
 # Olá, eu sou Tawhin Chiang! 👋
 
-## Apprentice Mobile Developer na Kothe S.A
+## 
 
 Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Dart. Já tive experiências com JavaScript, e estou sempre buscando aprender mais e aprimorar minhas habilidades na criação de soluções eficientes para plataformas móveis.
 
