@@ -6,9 +6,8 @@ Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Da
 
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 - **Linguagens e Frameworks:** JavaScript, Java, Dart (Flutter)
 - **Testes:** Testes automatizados, Testes de integração, Testes unitários
@@ -27,7 +26,7 @@ Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Da
 ### 🔭 Atualmente estou trabalhando em:
 
 - Desenvolvimento de aplicações móveis utilizando Flutter..
-- Aprimoramento das minhas habilidades em Dart e boas práticas de desenvolvimento mobile..
+- Aprimoramento das minhas habilidades em Javascript e boas práticas de desenvolvimento front-end..
 
 ### 🌱 Atualmente estou aprendendo:
 
@@ -36,7 +35,7 @@ Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Da
 
 ### 👯 Estou procurando colaborar em:
 
-- Projetos mobile open-source.
+
 - Iniciativas que promovam o crescimento de desenvolvedores em início de carreira.
 
 ### 🤔 Estou procurando ajuda com:
@@ -46,7 +45,7 @@ Estou iniciando minha jornada no desenvolvimento mobile com foco em Flutter e Da
 
 ### 💬 Pergunte-me sobre:
 
-- Flutter, boas práticas em desenvolvimento mobile..
+- javascript,html,css, boas práticas em desenvolvimento mobile..
 
 ### 📖 Citação favorita:
 
